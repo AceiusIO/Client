@@ -1,0 +1,16 @@
+[
+{
+  "modid": "squared",
+  "name": "Squared Client",
+  "description": "Custom client side forge mod, designed in the likeness of client's such as Lunar or Badlion. Optifine is optional but reccomended.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AceiusIO"],
+  "credits": "AceiusIO, BowedMars374878",
+  "logoFile": "squared.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
